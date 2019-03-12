@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1549371103 source:d:\c++\d.p subsir crescator maximal\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

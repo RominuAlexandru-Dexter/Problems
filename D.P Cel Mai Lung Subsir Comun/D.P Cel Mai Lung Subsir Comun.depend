@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1549980736 source:d:\c++\d.p cel mai lung subsir comun\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1551172640 source:d:\c++\convexhull\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<vector>
+	<stack>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1547729739 source:d:\c++\berarii2-dfs\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

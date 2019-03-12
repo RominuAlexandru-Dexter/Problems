@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551178137 source:d:\c++\stl_map-dictionar\main.cpp
+	<iostream>
+	<iterator>
+	<map>
+

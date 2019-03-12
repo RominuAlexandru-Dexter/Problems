@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551096293 source:d:\c++\d.p. nodurile_orice_subarbore\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1549019046 source:d:\c++\componente_tari_conexe\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<stack>
+

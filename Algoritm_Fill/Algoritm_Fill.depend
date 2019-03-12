@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1547556923 source:d:\c++\algoritm_fill\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+

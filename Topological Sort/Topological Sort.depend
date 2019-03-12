@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1549024036 source:d:\c++\topological sort\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	<fstream>
+

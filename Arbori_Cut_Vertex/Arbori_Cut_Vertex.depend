@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1548674819 source:d:\c++\arbori_cut_vertex\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

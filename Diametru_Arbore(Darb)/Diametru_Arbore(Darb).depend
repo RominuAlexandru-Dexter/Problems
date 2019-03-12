@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1547734379 source:d:\c++\diametru_arbore(darb)\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

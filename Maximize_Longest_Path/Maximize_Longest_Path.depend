@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1551438156 source:d:\c++\maximize_longest_path\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<map>
+

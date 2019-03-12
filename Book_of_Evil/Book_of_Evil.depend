@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1552049399 source:d:\c++\book_of_evil\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<bitset>
+

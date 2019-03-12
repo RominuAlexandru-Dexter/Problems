@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552037332 source:d:\c++\ cut_'em_all!\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+

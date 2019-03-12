@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1550844548 source:d:\c++\joctv_infoarena\main.cpp
+	<iostream>
+	<fstream>
+

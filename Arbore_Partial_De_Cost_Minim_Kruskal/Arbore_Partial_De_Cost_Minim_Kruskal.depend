@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1551098392 source:d:\c++\arbore_partial_de_cost_minim_kruskal\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+

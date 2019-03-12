@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551971295 source:d:\c++\f1._tree_cutting\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

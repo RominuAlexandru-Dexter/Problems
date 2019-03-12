@@ -1,0 +1,90 @@
+Orientarile a trei puncte consecutive
+(1, 1),  (5, 5),  (1, 5) au orientarea  2
+(5, 5),  (1, 5),  (5, 1) au orientarea  2
+(1, 5),  (5, 1),  (2, 2) au orientarea  1
+(5, 1),  (2, 2),  (4, 2) au orientarea  1
+
+Pozitia punctului de start in planul cartezian : 1, 1
+Pozitia minimului in vct: 0
+
+(1, 1)  (5, 5)  (1, 5)  (5, 1)  (2, 2)  (4, 2)  
+
+(1, 1)  (5, 5)  (1, 5)  (5, 1)  (2, 2)  (4, 2)  
+Dist intre 1, 1   si   1, 5: 16
+Dist intre 1, 1   si   5, 5: 32
+
+
+Dist intre 1, 1   si   1, 5: 16
+Dist intre 1, 1   si   5, 5: 32
+
+
+Dist intre 1, 1   si   5, 1: 16
+Dist intre 1, 1   si   5, 5: 32
+
+
+Dist intre 1, 1   si   2, 2: 2
+Dist intre 1, 1   si   5, 1: 16
+
+
+Dist intre 1, 1   si   2, 2: 2
+Dist intre 1, 1   si   1, 5: 16
+
+
+Dist intre 1, 1   si   2, 2: 2
+Dist intre 1, 1   si   5, 5: 32
+
+
+Dist intre 1, 1   si   2, 2: 2
+Dist intre 1, 1   si   5, 1: 16
+
+
+Dist intre 1, 1   si   4, 2: 10
+Dist intre 1, 1   si   5, 1: 16
+
+
+Dist intre 1, 1   si   4, 2: 10
+Dist intre 1, 1   si   1, 5: 16
+
+
+Dist intre 1, 1   si   4, 2: 10
+Dist intre 1, 1   si   5, 5: 32
+
+
+Dist intre 1, 1   si   4, 2: 10
+Dist intre 1, 1   si   2, 2: 2
+
+
+Dist intre 1, 1   si   4, 2: 10
+Dist intre 1, 1   si   5, 1: 16
+
+
+
+
+Vectorul sortat mai putin capatul din stanga
+(1, 1)  (5, 1)  (4, 2)  (2, 2)  (5, 5)  (1, 5)  
+
+
+IN VECTORUL SORTAT:
+Orientarile a trei puncte consecutive
+(1, 1),  (5, 1),  (4, 2) au orientarea  2
+(5, 1),  (4, 2),  (2, 2) au orientarea  2
+(4, 2),  (2, 2),  (5, 5) au orientarea  1
+(2, 2),  (5, 5),  (1, 5) au orientarea  2
+PASTREEZ PUNCTELE CELE MAI INDEPARTATE.
+(1, 1),  (5, 1),  (4, 2) au orientarea  2
+(1, 1),  (4, 2),  (2, 2) au orientarea  2
+(1, 1),  (2, 2),  (5, 5) au orientarea  2
+(1, 1),  (1, 5),  (0, 0) au orientarea  0
+
+Vectorul dupa pastrarea doar a elementelor cu rotatie st
+Ce este peste DImensiune =   5    va fi ignorat
+(1, 1)  (5, 1)  (4, 2)  (5, 5)  (1, 5)  (1, 5)  
+
+Stiva initiala
+(4, 2)  (5, 1)  (1, 1)  
+
+Evolutia stivei
+       <--SCOT 
+      -> Introduc: (5, 5)        -> Introduc: (1, 5)  
+Acoperirea convexa este: 
+(1, 5)  (5, 5)  (5, 1)  (1, 1)  

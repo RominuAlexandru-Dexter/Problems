@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1552166764 source:d:\c++\destruction_of_a_tree\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<bitset>
+

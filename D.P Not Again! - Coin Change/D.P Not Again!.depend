@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1549976186 source:d:\c++\d.p not again!\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+
