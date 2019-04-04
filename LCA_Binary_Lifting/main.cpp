@@ -42,7 +42,7 @@ void DFS(int v, int p)
     }
 
     tout[v] = ++timer;
-}cin
+}
 
 void preprocess( int root ){
   tin.resize( N+1 );
