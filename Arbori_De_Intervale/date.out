@@ -1,0 +1,46 @@
+Tree[1] = 2
+Tree[2] = 3
+Tree[3] = 2
+Tree[4] = 3
+Tree[5] = 7
+Tree[6] = 4
+Tree[7] = 2
+Tree[8] = 5
+Tree[9] = 3
+Tree[10] = 0
+
+
+
+Pe intervalul de indici (3,5), min = 2
+Pe intervalul de indici (2,5), min = 2
+Updated
+Tree[1] = 2
+Tree[2] = 5
+Tree[3] = 2
+Tree[4] = 5
+Tree[5] = 7
+Tree[6] = 4
+Tree[7] = 2
+Tree[8] = 5
+Tree[9] = 7
+Tree[10] = 0
+
+
+Pe intervalul de indici (1,2), min = 5
+Updated
+Tree[1] = 4
+Tree[2] = 5
+Tree[3] = 4
+Tree[4] = 5
+Tree[5] = 7
+Tree[6] = 4
+Tree[7] = 9
+Tree[8] = 5
+Tree[9] = 7
+Tree[10] = 0
+
+
+Pe intervalul de indici (1,5), min = 4
+Pe intervalul de indici (4,5), min = 4
+Pe intervalul de indici (3,4), min = 4
+Pe intervalul de indici (2,3), min = 7
